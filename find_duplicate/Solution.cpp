@@ -2,7 +2,7 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
 
-        std::map<int, int>::iterator    it_list;
+        std::unordered_map<int, int>::iterator    it_list;
         std::vector<int>::iterator      it;
 
         for (it = nums.begin(); it < nums.end(); it++) {
@@ -17,5 +17,5 @@ public:
         return false;
     }
 private:
-    std::map<int, int>  _num_list;
+    std::unordered_map<int, int>  _num_list;
 };
