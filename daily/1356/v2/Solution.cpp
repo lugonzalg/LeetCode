@@ -1,7 +1,6 @@
-# BEST SOLUTION
-  !(link)[https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/solutions/4224485/96-58-built-in-functions-brian-kerninghan-s-algorithm-explained-intuition/]
+https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/solutions/4224485/96-58-built-in-functions-brian-kerninghan-s-algorithm-explained-intuition/
 
-   class Solution {
+class Solution {
 public:
     // Count the number of set bits (1s) in the binary representation of a number.
     static int countBits(int num) {
