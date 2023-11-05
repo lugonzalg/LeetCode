@@ -1,4 +1,4 @@
-Impossible without the video >:| 
+Impossible without the video >:|
 https://www.youtube.com/watch?v=gqXU1UyA8pk
 
 class Solution {
